@@ -600,11 +600,13 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Build: 1
+    Collab: 1
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: 3fab3db9-5091-4f49-9232-d8c2f4894f9f
-  projectName: organize-your-desk-
+  projectName: organize-your-desk
   organizationId: brian_unity149
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
