@@ -23,7 +23,7 @@ GameObject:
   - component: {fileID: 65953768065316348}
   - component: {fileID: 23509760286500368}
   - component: {fileID: 54104254815392672}
-  - component: {fileID: 114589632636395004}
+  - component: {fileID: 114954763095419360}
   m_Layer: 0
   m_Name: Doodad
   m_TagString: Untagged
@@ -112,7 +112,7 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &114589632636395004
+--- !u!114 &114954763095419360
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -120,6 +120,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1099091305964134}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7973630a743ba814fa7958cd4c02b2dd, type: 3}
+  m_Script: {fileID: 11500000, guid: 89fdde7d44dd4411900d7d64b33a884c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  BounceForce: 150
